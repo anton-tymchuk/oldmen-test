@@ -30,7 +30,10 @@ module.exports = (grunt) ->
             src: [
               'js/**/*.js',
               '*.html',
-              'views/**/*.html'
+              'views/**/*.html',
+              'styles/*.css',
+              'images/*.png',
+              'data/*.json'
             ]
           }
         ]

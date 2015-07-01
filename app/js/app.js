@@ -1,1 +1,6 @@
-angular.module('oldmenTest', []);
+(function () {
+'use strict';
+    
+    angular.module('oldmenTest', []);
+
+}());
